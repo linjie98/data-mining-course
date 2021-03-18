@@ -1,5 +1,5 @@
 ## 文章详情
->来源：ACL-2020、ACL2019、IEEE、EMNLP-2020、EMNLP-2019、IJCNLP-2019
+>来源：ACL-2020、ACL2019、IEEE、EMNLP-2019、IJCNLP-2019
 >分类：1-10 similarity、11-14 bert、15-20 topic
 #### 1、SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check
 - 作者：Xingyi Cheng, Weidi Xu, Kunlong Chen, Shaohua Jiang, Feng Wang, Taifeng Wang, Wei Chu, Yuan Qi
@@ -68,28 +68,24 @@
 - 论文地址：https://ieeexplore.ieee.org/document/8850978
 - 会议名称：IEEE
 
-#### 8、On Efficient Retrieval of Top Similarity Vectors
-- 作者：Shulong Tan, Zhixin Zhou, Zhaozhuo Xu, Ping Li
+#### 8、Ontological and Fuzzy Set Similarity between Perception-Based Words
+- 作者：Valerie Cross, Valeria Morenko, Keeley Crockett, Naeemeh Adel
 - 作者信息：
-    - Cognitive Computing Lab
-    - Baidu Research USA
-    - 1195 Bordeaux Dr, Sunnyvale, CA 94089, USA
-    - 10900 NE 8th St, Bellevue, WA 98004, USA
+    - Computer Science and Software Engineering Miami University
+    - Computational Intelligence Lab Manchester Metropolitan University
+    - School of Computing, Maths, and Digital Technology Manchester Metropolitan University Manchester, UK
 - 发表时间：2019
 - 论文代码：无
-- 论文地址：https://www.aclweb.org/anthology/D19-1527/
-- 会议名称：EMNLP-2019 | IJCNLP-2019
+- 论文地址：https://ieeexplore.ieee.org/document/8858947
+- 会议名称：IEEE
 
-#### 9、Bridging the Gap Between Relevance Matching and Semantic Matching for Short Text Similarity Modeling
-- 作者：Jinfeng Rao,1 Linqing Liu,2 Yi Tay,3 Wei Yang,2 Peng Shi,2 and Jimmy Lin2
-- 作者信息：
-    - 1 Facebook Assistant
-    - 2 David R. Cheriton School of Computer Science, University of Waterloo
-    - 3 Nanyang Technological University
+#### 9、A Comparison of Semantic Similarity Methods for Maximum Human Interpretability
+- 作者：Pinky Sitikhu, Kritish Pahi, Pujan Thapa, Subarna Shakya
+- 作者信息：Department of Electronics and Computer Engineering, Tribhuwan University Pulchowk Campus, IOE, Nepal
 - 发表时间：2019
 - 论文代码：无
-- 论文地址：https://www.aclweb.org/anthology/D19-1540/
-- 会议名称：EMNLP-2019 | IJCNLP-2019
+- 论文地址：https://ieeexplore.ieee.org/document/8947433
+- 会议名称：IEEE
 
 #### 10、Similarity Based Auxiliary Classifier for Named Entity Recognition
 - 作者：Shiyuan Xiao1,2, Yuanxin Ouyang1,2, Wenge Rong1,2, Jianxin Yang1,2, Zhang Xiong1,2
