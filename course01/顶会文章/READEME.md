@@ -25,7 +25,7 @@
 - 作者信息：Computer Science Department University of Central Florida, Orlando, FL 32816, USA
 - 发表时间：2019
 - 论文代码：https://github.com/ucfnlp/summarization-dpp-capsnet
-- 论文地址：aclweb.org/anthology/P19-1098/
+- 论文地址：https://www.aclweb.org/anthology/P19-1098/
 - 会议名称：ACL-2019
 
 #### 4、Matching the Blanks: Distributional Similarity for Relation Learning
@@ -55,7 +55,7 @@
 - 发表时间：2020
 - 论文代码：无
 - 论文地址：https://ieeexplore.ieee.org/document/9177836
-- 会议名称：IEEE
+- 会议名称：FUZZ-IEEE
 
 #### 7、Use Case Diagram Similarity Measurement: A New Approach
 - 作者：Reza Fauzan | Daniel Siahaan | Siti Rochimah | Evi Triandini
@@ -66,7 +66,7 @@
 - 发表时间：2019
 - 论文代码：无
 - 论文地址：https://ieeexplore.ieee.org/document/8850978
-- 会议名称：IEEE
+- 会议名称：ICTS
 
 #### 8、Ontological and Fuzzy Set Similarity between Perception-Based Words
 - 作者：Valerie Cross, Valeria Morenko, Keeley Crockett, Naeemeh Adel
@@ -77,7 +77,8 @@
 - 发表时间：2019
 - 论文代码：无
 - 论文地址：https://ieeexplore.ieee.org/document/8858947
-- 会议名称：IEEE
+- 会议名称：FUZZ-IEEE
+
 
 #### 9、A Comparison of Semantic Similarity Methods for Maximum Human Interpretability
 - 作者：Pinky Sitikhu, Kritish Pahi, Pujan Thapa, Subarna Shakya
@@ -85,8 +86,7 @@
 - 发表时间：2019
 - 论文代码：无
 - 论文地址：https://ieeexplore.ieee.org/document/8947433
-- 会议名称：IEEE
-
+- 会议名称：AITB
 #### 10、Similarity Based Auxiliary Classifier for Named Entity Recognition
 - 作者：Shiyuan Xiao1,2, Yuanxin Ouyang1,2, Wenge Rong1,2, Jianxin Yang1,2, Zhang Xiong1,2
 - 作者信息：
